@@ -1,2 +1,1 @@
-# My-demo
-Demo website 
+# Video chat Frontend Project
